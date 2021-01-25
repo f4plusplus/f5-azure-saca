@@ -17,12 +17,12 @@ variable adminPassword {
 variable location {
   type        = string
   description = "REQUIRED: Azure Region: usgovvirginia, usgovarizona, etc"
-  default     = "usgovvirginia"
+  default     = "eastus2"
 }
 variable region {
   type        = string
   description = "Azure Region: US Gov Virginia, US Gov Arizona, etc"
-  default     = "US Gov Virginia"
+  default     = "East US 2"
 }
 variable deploymentType {
   type        = string
