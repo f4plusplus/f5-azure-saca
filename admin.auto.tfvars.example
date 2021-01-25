@@ -1,10 +1,10 @@
 # azure
 # gov
-location = "usgovvirginia"
-region = "USGov Virginia"
+#location = "usgovvirginia"
+#region = "USGov Virginia"
 # commercial
-#location = "eastus2"
-#region   = "East US 2"
+location = "eastus2"
+region   = "East US 2"
 # project
 projectPrefix = "scca"
 # deployment
